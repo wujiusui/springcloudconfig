@@ -1,2 +1,4 @@
 spring:
     active: test
+config: 
+    info: "a spring test"

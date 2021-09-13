@@ -1,2 +1,4 @@
 spring:
     active: prod
+config: 
+    info: "a spring prod"

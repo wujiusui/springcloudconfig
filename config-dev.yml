@@ -1,2 +1,4 @@
 spring:
     active: dev
+config: 
+    info: "a spring dev"

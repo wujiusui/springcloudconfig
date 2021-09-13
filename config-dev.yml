@@ -1,4 +1,4 @@
 spring:
     active: dev
 config: 
-    info: "a spring dev version: 1"
+    info: "a spring dev version: 2"
